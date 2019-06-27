@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d6f4fb8-9608-40a5-b37b-fed778e89398" name="Default" comment="psutil">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/fanxu_use.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fanxu_ATX/atx_test_file.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fanxu_ATX/dict_my.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fanxu_ATX/my_use.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
