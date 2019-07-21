@@ -15,7 +15,6 @@ connect_.implicitly_wait(10.0)
 # connect_.app_start("com.syrs.pwcn")
 with connect_.session("com.syrs.pwcn") as sess:
     # sess.watchers.watched = True
-
     # 判断是否是活动界面
     jump = sess(text="跳过")
     if jump.exists:
@@ -35,6 +34,7 @@ with connect_.session("com.syrs.pwcn") as sess:
         connect_.xpath("//android.view.View[@text='善源公益']").wait(10)
         # sess(beta="//android.view.View[@text='善源公益']").wait(True,3.0)
         sess(text="教育助学").wait(True,30)
+        sess(text="教育助学")
         sess(text="教育助学").click()
         sess(text=u"目标金额/元").click()
 

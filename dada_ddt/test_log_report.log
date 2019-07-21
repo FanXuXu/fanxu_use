@@ -1,0 +1,3 @@
+Sun,21 Jul 2019 16: 42: 11 unittest_ddt_test.py[line: 48] ERROR 搜索:神奇动物在哪里,期望:叶茨，结果:通过
+Sun,21 Jul 2019 16: 42: 17 unittest_ddt_test.py[line: 48] ERROR 搜索:疯狂动物城,期望:古德温，结果:通过
+Sun,21 Jul 2019 16: 42: 23 unittest_ddt_test.py[line: 48] ERROR 搜索:大话西游之月光宝盒,期望:周星驰，结果:通过
