@@ -71,7 +71,7 @@ class TestDemo(unittest.TestCase):
                 <td>{}</td>
                 <td>{:.2f}</td>
                 <td style = "color: {}">{}</td>
-            </tr><br/>
+            </tr>
         """.format(testdata, expectdata, startTime, wasteTime, flagDict[flag], status)
         print(self.trStr)
 

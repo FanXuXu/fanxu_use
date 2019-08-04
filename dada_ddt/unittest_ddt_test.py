@@ -14,7 +14,7 @@ logging.basicConfig(
     format="%(asctime)s %(filename)s[line: %(lineno)d] %(levelname)s %(message)s",
     datefmt="%a,%d %b %Y %H: %M: %S",
     filename="/Users/fanxu/Desktop/fanxu_use/dada_ddt/test_log_report.log",
-    filemode="w" 
+    filemode="w"
 )
 
 @ddt.ddt

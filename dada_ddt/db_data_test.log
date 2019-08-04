@@ -1,0 +1,4 @@
+Sat,03 Aug 2019 19: 14: 42 DataDriverByMySQL.py[line: 62] ERROR 搜索:Selenium WebDriver 实战宝典,期望:吴晓华，结果:通过
+Sat,03 Aug 2019 19: 14: 48 DataDriverByMySQL.py[line: 58] ERROR 搜索:HTTP权威指南,期望:古尔利，结果:失败
+Sat,03 Aug 2019 19: 14: 53 DataDriverByMySQL.py[line: 62] ERROR 搜索:探索式软件测试,期望:惠特克，结果:通过
+Sat,03 Aug 2019 19: 14: 58 DataDriverByMySQL.py[line: 62] ERROR 搜索:暗时间,期望:刘未鹏，结果:通过
